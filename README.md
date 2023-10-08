@@ -81,7 +81,7 @@ Python and complex logic were used to create the programme which uses an API to 
 [Link to 'Case Closed' live Page](https://case-closed-d6a42992581c.herokuapp.com)
 </details>
 
-[<img src='https://github.com/GeorginaCarlisle/detective-game-p3/blob/main/documentation/screenshots/opening_console.png' alt='Image showing the opening screen of the Case Closed game'>](https://github.com/GeorginaCarlisle/detective-game-p3)
+<a href="https://github.com/GeorginaCarlisle/detective-game-p3"><img width="500px" height="300px" src="https://github.com/GeorginaCarlisle/detective-game-p3/blob/main/documentation/screenshots/opening_console.png"></a>
 
 ### Wild Sliding Puzzles (Distinction) - HTML, CSS and JavaScript - July 2023
 
@@ -99,7 +99,7 @@ Wild Sliding Puzzles was created purely for educational purposes to showcase Jav
 [Link to 'Wild Sliding Puzzles' live Page](https://georginacarlisle.github.io/wild-sliding-puzzles-p2/))
 </details>
 
-[<img src='https://github.com/GeorginaCarlisle/wild-sliding-puzzles-p2/blob/main/documentation/responsive-site-image.png' alt='Image showing the Wild Sliding Puzzles site on multiple screens of different sizes'>](https://github.com/GeorginaCarlisle/wild-sliding-puzzles-p2/tree/main)
+<a href="https://github.com/GeorginaCarlisle/wild-sliding-puzzles-p2/tree/main"><img width="500px" height="300px" src="https://github.com/GeorginaCarlisle/wild-sliding-puzzles-p2/blob/main/documentation/responsive-site-image.png"></a>
 
 ### Walking the Wainwrights (Merit) - HTML and CSS - May 2023
 
@@ -120,10 +120,27 @@ Walking the Wainwrights was created purely for educational purposes to showcase 
 [Link to 'Walking the Wainwrights' live Page](https://georginacarlisle.github.io/walking-the-wainwrights-p1/)
 </details>
 
-[<img src='https://github.com/GeorginaCarlisle/walking-the-wainwrights-p1/blob/main/documentation/responsive-website.png' alt='Image showing the Wild Sliding Puzzles site on multiple screens of different sizes'>](https://github.com/GeorginaCarlisle/detective-game-p3)
+<a href="https://github.com/GeorginaCarlisle/detective-game-p3"><img width="500px" height="300px" src="https://github.com/GeorginaCarlisle/walking-the-wainwrights-p1/blob/main/documentation/responsive-website.png"></a>
 
 ---
 
 ## My Collaborative Projects
 
- 👋 👀 🌱 💞️ 📫 ✨ 
+### Power Up Point (Winner of 1st place) - September 2023
+
+In September I had the pleasure of being part of team **Greener Today** for the **Tech for a Greener Tomorrow – Hackathon for sustainable solution** Hackathon. A group of strangers, we came together to form a well-functioning team of friends all working together to create the best possible project in the time available utilising our collective skills to the best advantage.
+
+Power Up Point is a site assisting electric vehicle users in locating a suitable charging point.
+<details>
+<summary>Click here to learn more</summary>
+ 
+
+[Link to 'Power Up Point' repository](https://github.com/GeorginaCarlisle/power-up-point)
+
+[Link to 'Power Up Point' live Page](https://stef-cruz.github.io/power-up-point/index.html)
+</details>
+
+<a href="https://github.com/GeorginaCarlisle/power-up-point"><img width="500px" height="300px" src="https://github.com/GeorginaCarlisle/power-up-point/blob/main/assets/readme_files/responsiveness-sp1.png"></a>
+<a href="https://api.eu.badgr.io/public/assertions/1tu5kScrREGJR8fpCt_VsA"><img width="200px" height="200px" src="https://api.eu.badgr.io/public/assertions/1tu5kScrREGJR8fpCt_VsA/image"></a>
+
+
