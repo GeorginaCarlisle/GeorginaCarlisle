@@ -4,7 +4,9 @@ Banner to go here
 
 ## Junior Full Stack Software Developer
 
-### About Me
+---
+
+## About Me
 
 Hi, I am Georgina Carlisle, a Junior Full Stack Software Developer currently undertaking a Diploma in Full Stack Software Development with Code Institute. I enjoy working with HTML, CSS, JavaScript and Python, and using UX design, Design Thinking and Agile methodologies to plan and develop projects. 
 
@@ -15,8 +17,9 @@ I am eager to continue my learning, further develop my tech skills and contribut
 
 To get in touch, please connect with me on [LinkedIn](https://www.linkedin.com/in/georgina-carlisle-617b58268/)
 
+---
 
-### Tech Stack
+## Tech Stack
 
 **Programming Languages**
 
@@ -45,6 +48,10 @@ To get in touch, please connect with me on [LinkedIn](https://www.linkedin.com/i
 ![GitHub pages Badge](https://img.shields.io/badge/GitHub%20Pages-222222?style=for-the-badge&logo=GitHub%20Pages&logoColor=white)
 ![Heroku Badge](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) 
 
+---
+
+## Up and coming Tech Stack
+
 **I am currently learning:**
 
 ![Flask Badge](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
@@ -55,16 +62,13 @@ To get in touch, please connect with me on [LinkedIn](https://www.linkedin.com/i
 ![Dango Badge](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green)
 ![React Badge](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
+---
 
+## My Personal Projects
 
-### My Personal Projects
+### Case Closed (Merit) - Python - August 2023
 
-#### Case Closed (Merit) - Python
-
-Created August 2023: Case Closed is a command line detective game where the player must follow the clues to work out who stole the missing item and where it is hidden.
-
-[<img src='https://github.com/GeorginaCarlisle/detective-game-p3/blob/main/documentation/screenshots/opening_console.png' alt='Image showing the opening screen of the Case Closed game'>](https://github.com/GeorginaCarlisle/detective-game-p3)
-
+Case Closed is a command line detective game where the player must follow the clues to work out who stole the missing item and where it is hidden.
 <details>
 <summary>Click here to learn more</summary>
  
@@ -77,14 +81,11 @@ Python and complex logic were used to create the programme which uses an API to 
 [Link to 'Case Closed' live Page](https://case-closed-d6a42992581c.herokuapp.com)
 </details>
 
+[<img src='https://github.com/GeorginaCarlisle/detective-game-p3/blob/main/documentation/screenshots/opening_console.png' alt='Image showing the opening screen of the Case Closed game'>](https://github.com/GeorginaCarlisle/detective-game-p3)
 
+### Wild Sliding Puzzles (Distinction) - HTML, CSS and JavaScript - July 2023
 
-#### Wild Sliding Puzzles (Distinction) - HTML, CSS and JavaScript
-
-Created July 2023: Wild Sliding Puzzles is a fun, enjoyable and addictive sliding puzzle game that promotes wildlife and wild landscapes in the British Isles and the work being done through the 'Save Our Wild Isles' project.
-
-[<img src='https://github.com/GeorginaCarlisle/wild-sliding-puzzles-p2/blob/main/documentation/responsive-site-image.png' alt='Image showing the Wild Sliding Puzzles site on multiple screens of different sizes'>](https://github.com/GeorginaCarlisle/wild-sliding-puzzles-p2/tree/main)
-
+Wild Sliding Puzzles is a fun, enjoyable and addictive sliding puzzle game that promotes wildlife and wild landscapes in the British Isles and the work being done through the 'Save Our Wild Isles' project.
 <details>
 <summary>Click here to learn more</summary>
  
@@ -98,12 +99,11 @@ Wild Sliding Puzzles was created purely for educational purposes to showcase Jav
 [Link to 'Wild Sliding Puzzles' live Page](https://georginacarlisle.github.io/wild-sliding-puzzles-p2/))
 </details>
 
-#### Walking the Wainwrights (Merit) - HTML and CSS
+[<img src='https://github.com/GeorginaCarlisle/wild-sliding-puzzles-p2/blob/main/documentation/responsive-site-image.png' alt='Image showing the Wild Sliding Puzzles site on multiple screens of different sizes'>](https://github.com/GeorginaCarlisle/wild-sliding-puzzles-p2/tree/main)
 
-Created May 2023: Walking the Wainwrights is an informative website for fell walkers looking to summit the Wainwright fells in The Lake District National Park, England. 
+### Walking the Wainwrights (Merit) - HTML and CSS - May 2023
 
-[<img src='https://github.com/GeorginaCarlisle/walking-the-wainwrights-p1/blob/main/documentation/responsive-website.png' alt='Image showing the Wild Sliding Puzzles site on multiple screens of different sizes'>](https://github.com/GeorginaCarlisle/detective-game-p3)
-
+Walking the Wainwrights is an informative website for fell walkers looking to summit the Wainwright fells in The Lake District National Park, England. 
 <details>
 <summary>Click here to learn more</summary>
  
@@ -120,6 +120,10 @@ Walking the Wainwrights was created purely for educational purposes to showcase 
 [Link to 'Walking the Wainwrights' live Page](https://georginacarlisle.github.io/walking-the-wainwrights-p1/)
 </details>
 
-### My Collaborative Projects
+[<img src='https://github.com/GeorginaCarlisle/walking-the-wainwrights-p1/blob/main/documentation/responsive-website.png' alt='Image showing the Wild Sliding Puzzles site on multiple screens of different sizes'>](https://github.com/GeorginaCarlisle/detective-game-p3)
+
+---
+
+## My Collaborative Projects
 
  👋 👀 🌱 💞️ 📫 ✨ 
