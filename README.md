@@ -1,5 +1,3 @@
-Banner to go here
-
 # Georgina Carlisle
 
 ## Junior Full Stack Software Developer
@@ -10,12 +8,12 @@ Banner to go here
 
 Hi, I am Georgina Carlisle, a Junior Full Stack Software Developer currently undertaking a Diploma in Full Stack Software Development with Code Institute. I enjoy working with HTML, CSS, JavaScript and Python, and using UX design, Design Thinking and Agile methodologies to plan and develop projects. 
 
-I am transitioning into software development from education, bringing with me experience and a real love of supporting, motivating and helping others to progress.
+I am transitioning into software development from the education sector, bringing with me experience and a real love of supporting, motivating and helping others to progress.
 
 I am eager to continue my learning, further develop my tech skills and contribute to projects that make a positive contribution to the world.
 
 
-To get in touch, please connect with me on [LinkedIn](https://www.linkedin.com/in/georgina-carlisle-617b58268/)
+To get in touch, please connect with me on [LinkedIn](https://www.linkedin.com/in/georgina-carlisle-617b58268/).
 
 ---
 
@@ -64,7 +62,7 @@ To get in touch, please connect with me on [LinkedIn](https://www.linkedin.com/i
 
 ---
 
-## My Personal Projects
+## My Portfolio Projects
 
 ### Case Closed (Merit) - Python - August 2023
 
@@ -72,9 +70,9 @@ Case Closed is a command line detective game where the player must follow the cl
 <details>
 <summary>Click here to learn more</summary>
  
-The user takes on the role of a detective and has the chance to visit different locations, pick up clues and question the suspects to gain further information. Only by paying attention to the clues will they be able to work out who the thief is and where they have hidden the item.
+The user takes on the role of a detective and has the chance to visit different locations, pick up clues and question the suspects to gain further information. Only by paying attention to the clues will they be able to work out who the thief is and where the stolen item is hidden.
 
-Python and complex logic were used to create the programme which uses an API to pull all the relevant clues and case information from a Google sheet. This has allowed multiple cases to be programmed each with multiple scenarios. Random number generation is then used to choose which storyline the user will be presented with. The programme also passes the users choices back to the sheet, leaving a clear trail in case of errors and providing data which will inform future development.
+Python and complex logic were used to create the program which uses an API to pull all the relevant clues and case information from a Google sheet. This has allowed multiple cases to be programmed each with multiple scenarios. Random number generation is then used to choose which storyline the user will be presented with. The program also passes the users choices back to the sheet, leaving a clear trail in case of errors and providing data which will inform future development.
 
 [Link to 'Case Closed' repository](https://github.com/GeorginaCarlisle/detective-game-p3)
 
@@ -91,7 +89,7 @@ Wild Sliding Puzzles is a fun, enjoyable and addictive sliding puzzle game that 
  
 Users are faced with a scrambled image, by sliding the tiles around the grid and moving them to their correct position the picture is revealed. On completing the puzzle, users will be taken to a win page where they can learn more about the subject of the picture. The scope of the game has been further expanded by the inclusion of multiple puzzles, with the structure of the code allowing for easy inclusion of further puzzles. Session storage ensures that users receive a different puzzle when clicking play again and are informed once all available puzzles have been completed. 
 
-Vanilla JavaScript combined with CSS were used to create the interactivity and movement of the puzzle pieces. Defensive design, careful logic choices and extensive testing ensure a bug free experience for users. With structure, styling, clear instructions, and user feedback coming together to provide a high user experience.
+Vanilla JavaScript combined with CSS were used to create the interactivity and movement of the puzzle pieces. Defensive design, careful logic choices and extensive testing ensure a bug free experience for users, with structure, styling, clear instructions, and user feedback coming together to provide a high user experience.
 Wild Sliding Puzzles was created purely for educational purposes to showcase JavaScript in portfolio project two for the course 'Diploma in Full Stack Software Development' at Code Institute.
 
 [Link to 'Wild Sliding Puzzles' repository](https://github.com/GeorginaCarlisle/wild-sliding-puzzles-p2)
@@ -126,9 +124,9 @@ Walking the Wainwrights was created purely for educational purposes to showcase 
 
 ## My Collaborative Projects
 
-### Power Up Point (Winner of 1st place) - September 2023
+### Power Up Point (1st place) - September 2023
 
-In September I had the pleasure of being part of team **Greener Today** for the **Tech for a Greener Tomorrow – Hackathon for sustainable solution** Hackathon. A group of strangers, we came together to form a well-functioning team of friends all working together to create the best possible project in the time available utilising our collective skills to the best advantage.
+In September I had the pleasure of being part of team **Greener Today** for the **Tech for a Greener Tomorrow – Hackathon for sustainable solution**. A group of strangers, we came together to form a well-functioning team of friends all working together to create the best possible project in the time available utilising our collective skills to the best advantage.
 
 Power Up Point is a site assisting electric vehicle users in locating a suitable charging point.
 <details>
