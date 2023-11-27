@@ -112,19 +112,27 @@ Walking the Wainwrights was created purely for educational purposes to showcase 
 
 ## My Collaborative Projects
 
+### BroBonds (Scrum Master role) - Django, Bootstrap, HTML, CSS, Python and JavaScript - November 2023
+
+I had the pleasure of being the Scrum Master for **Team!Alone** for the **Talking Tech: Men's Health Reimagined** Hackathon. Over 5 days we utilized our collective skills to create a platform specifically designed to overcome the barriers that prevent men experiencing loneliness from gaining social contact and building supportive social connections. At BroBonds men can come together and connect with others over shared interests. 
+ 
+[Link to 'BroBonds' repository](https://github.com/GeorginaCarlisle/brobonds-movember-hackathon)
+
+[Link to 'BroBonds' live Page](https://movember1-bac9d403956e.herokuapp.com/)
+
+
+<a href="https://github.com/GeorginaCarlisle/brobonds-movember-hackathon"><img width="350px" height="300px" src="https://github.com/GeorginaCarlisle/brobonds-movember-hackathon/blob/main/documentation/readme-images/home-page-1.png"></a>
+
+
 ### Power Up Point (1st place) - September 2023
 
-In September I had the pleasure of being part of team **Greener Today** for the **Tech for a Greener Tomorrow – Hackathon for sustainable solution**. A group of strangers, we came together to form a well-functioning team of friends all working together to create the best possible project in the time available utilising our collective skills to the best advantage.
+I had the pleasure of being part of team **Greener Today** for the **Tech for a Greener Tomorrow – Hackathon for sustainable solution**. A group of strangers, we came together to form a well-functioning team of friends all working together to create the best possible project in the time available utilising our collective skills to the best advantage.
 
-Power Up Point is a site assisting electric vehicle users in locating a suitable charging point.
-<details>
-<summary>Click here to learn more</summary>
- 
+Power Up Point is a site assisting electric vehicle users in locating a suitable charging point. 
 
 [Link to 'Power Up Point' repository](https://github.com/GeorginaCarlisle/power-up-point)
 
 [Link to 'Power Up Point' live Page](https://stef-cruz.github.io/power-up-point/index.html)
-</details>
 
 <a href="https://github.com/GeorginaCarlisle/power-up-point"><img width="500px" height="300px" src="https://github.com/GeorginaCarlisle/power-up-point/blob/main/assets/readme_files/responsiveness-sp1.png"></a>
 <a href="https://api.eu.badgr.io/public/assertions/1tu5kScrREGJR8fpCt_VsA"><img width="200px" height="200px" src="https://api.eu.badgr.io/public/assertions/1tu5kScrREGJR8fpCt_VsA/image"></a>
