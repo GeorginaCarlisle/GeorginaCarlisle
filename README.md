@@ -121,7 +121,7 @@ I had the pleasure of being the Scrum Master for **Team!Alone** for the **Talkin
 [Link to 'BroBonds' live Page](https://movember1-bac9d403956e.herokuapp.com/)
 
 
-<a href="https://github.com/GeorginaCarlisle/brobonds-movember-hackathon"><img width="350px" height="300px" src="https://github.com/GeorginaCarlisle/brobonds-movember-hackathon/blob/main/documentation/readme-images/home-page-1.png"></a>
+<a href="https://github.com/GeorginaCarlisle/brobonds-movember-hackathon"><img width="600px" height="300px" src="https://github.com/GeorginaCarlisle/brobonds-movember-hackathon/blob/main/documentation/readme-images/techsini.png"></a>
 
 
 ### Power Up Point (1st place) - September 2023
