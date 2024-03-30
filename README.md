@@ -21,18 +21,21 @@ To get in touch, please connect with me on [LinkedIn](https://www.linkedin.com/i
 
 **Programming Languages**
 
-![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3 Badge](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript Badge](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![Python Badge](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+![CSS3 Badge](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
 **Frameworks & libraries**
 
+![React Badge](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![DjangoRest Badge](https://img.shields.io/badge/django%20rest-ff1709?style=for-the-badge&logo=django&logoColor=white)
+![Dango Badge](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green)
+![Flask Badge](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+
 ![Jest Badge](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
 ![Tailwind CSS Badge](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Font Awesome Badge](https://img.shields.io/badge/Font_Awesome-339AF0?style=for-the-badge&logo=fontawesome&logoColor=white)
-![Flask Badge](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Dango Badge](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 **Version Control**
 
@@ -51,6 +54,42 @@ To get in touch, please connect with me on [LinkedIn](https://www.linkedin.com/i
 ---
 
 ## My Portfolio Projects
+
+### Take Control (Awaiting result) - React and Django Rest Framework - March 2024
+
+Take Control is a task management application that allows users to manage and organise multiple areas of their life.
+
+<details>
+<summary>Click here to learn more</summary>
+ 
+Within Take Control users can create focus areas, set goals they wish to work towards and tasks that need to be completed. Users can then head to the "Take Action" page where all their tasks are displayed together in a backlog. Here tasks can be selected to work on today and checked as done once completed.
+
+Take Control is a full-stack project with a separate React frontend and Django Rest Framework API.
+
+[Link to 'Take Control' frontend repository](https://github.com/GeorginaCarlisle/take-control-frontend-app)
+
+[Link to 'Take Control' live Page](https://take-control-frontend-32659c908a57.herokuapp.com/)
+
+[Link to 'Take Control' API repository](https://github.com/GeorginaCarlisle/take-control-api)
+
+</details>
+
+<a href="https://github.com/GeorginaCarlisle/take-control-frontend-app"><img width="500px" height="300px" src="https://github.com/GeorginaCarlisle/take-control-frontend-app/blob/main/documentation/features/responsive-site.png"></a>
+
+### Inspiring Young Writers (Distinction) - Django - December 2023
+
+Inspiring Young Writers is a platform for children to share their writing and give and gain feedback.
+<details>
+<summary>Click here to learn more</summary>
+
+This project was all about going full-stack and using Django to build an application with user authentication and plenty of CRUD functionality. I also took the decision to use Tailwind CSS for all the styling and followed Agile values and principles throughout.
+
+[Link to 'Inspiring Young Writers' repository](https://github.com/GeorginaCarlisle/inspiring-young-writers)
+
+[Link to 'Inspiring Young Writers' live Page](https://inspiring-young-writers-0f3170377dc7.herokuapp.com/)
+</details>
+
+<a href="https://github.com/GeorginaCarlisle/inspiring-young-writers"><img width="500px" height="300px" src="https://github.com/GeorginaCarlisle/inspiring-young-writers/blob/main/documentation/features/intro-picture.png"></a>
 
 ### Case Closed (Merit) - Python - August 2023
 
