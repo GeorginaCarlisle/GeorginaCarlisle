@@ -145,7 +145,7 @@ Walking the Wainwrights was created purely for educational purposes to showcase 
 [Link to 'Walking the Wainwrights' live Page](https://georginacarlisle.github.io/walking-the-wainwrights-p1/)
 </details>
 
-<a href="https://github.com/GeorginaCarlisle/detective-game-p3"><img width="500px" height="300px" src="https://github.com/GeorginaCarlisle/walking-the-wainwrights-p1/blob/main/documentation/responsive-website.png"></a>
+<a href="https://github.com/GeorginaCarlisle/walking-the-wainwrights-p1"><img width="500px" height="300px" src="https://github.com/GeorginaCarlisle/walking-the-wainwrights-p1/blob/main/documentation/responsive-website.png"></a>
 
 ---
 
