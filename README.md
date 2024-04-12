@@ -1,17 +1,16 @@
 # Georgina Carlisle
 
-## Junior Full Stack Software Developer
+## Junior Software Enginer
 
 ---
 
 ## About Me
 
-Hi, I am Georgina Carlisle, a Junior Full Stack Software Developer currently undertaking a Diploma in Full Stack Software Development with Code Institute. I enjoy working with HTML, CSS, JavaScript and Python, and using UX design, Design Thinking and Agile methodologies to plan and develop projects. 
+Hi, I am Georgina Carlisle, a Junior Software Engineer. I particularly enjoy working with JavaScript, React.JS, CSS and HTML and also have experience working with Python and Django.
 
-I am transitioning into software development from the education sector, bringing with me experience and a real love of supporting, motivating and helping others to progress.
+I work to a high level, utilising UX design and design thinking and ensuring a quality user experience that is accessible and responsive, as well as validated, well-organised code with comprehensive documentation. I love to work as part of a team, following Agile methodologies, getting to know my colleagues, and working out how I can best contribute. 
 
-I am eager to continue my learning, further develop my tech skills and contribute to projects that make a positive contribution to the world.
-
+Pushing forwards at every opportunity, I love learning new skills as well as deepening my knowledge so that I can identify the best solutions. I have recently completed a Diploma in Full Stack Software Development with Code Institute, transitioning into software development from education and bringing with me experience and a real love of supporting, motivating and helping others to progress.
 
 To get in touch, please connect with me on [LinkedIn](https://www.linkedin.com/in/georgina-carlisle-617b58268/).
 
