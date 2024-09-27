@@ -1,12 +1,12 @@
 # Georgina Carlisle
 
-## Software Developer
+## Software Engineer
 
 ---
 
 ## About Me
 
-Hi, I am Georgina Carlisle, a Junior Software Developer. I enjoy working with JavaScript, React.JS, Python, Django, CSS and HTML.
+Hi, I am Georgina Carlisle, a Software Engineer. I enjoy working with JavaScript, React.JS, Python, Django, CSS and HTML.
 
 I work to a high level, utilising UX design and design thinking and ensuring a quality user experience that is accessible and responsive, as well as validated, well-organised code with comprehensive documentation. I love to work as part of a team, following Agile methodologies, getting to know my colleagues, and working out how I can best contribute. 
 
